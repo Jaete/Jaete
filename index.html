@@ -21,7 +21,7 @@
             <div id="numberRocket" onclick="typeNumber(8)">8</div>
             <div id="numberRocket" onclick="typeNumber(9)">9</div>
             <div id="numberRocket" class="zero" onclick="typeNumber(0)">0</div>
-            <i class="fa-solid fa-delete-left"></i>
+            <i class="fa-solid fa-delete-left" onclick="backspace()"></i>
         </div>
         <div id="successNotifyRocket">
             <div id="successText">Sucesso!</div>
@@ -103,9 +103,12 @@
         padding: 4rem;
         width: 25%;
         position: absolute;
-        margin-top: -17rem;
+        margin-top: -23rem;
         display: none;
         width: 22.5%;
+        justify-content: center;
+        align-items: center;
+        height: 40%;
     }
 
     #successText {
