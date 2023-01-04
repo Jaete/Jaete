@@ -9,16 +9,16 @@
 </head>
 <body>
     <div id="containerRocket">
-        <div id="gridRocket"><input type="number" id="pinRocket" placeholder="Insira o PIN">
-            <div id="numberRocket" onclick="verifySuccess(1)">1</div>
-            <div id="numberRocket" onclick="verifySuccess(2)">2</div>
-            <div id="numberRocket" onclick="verifySuccess(3)">3</div>
-            <div id="numberRocket" onclick="verifySuccess(4)">4</div>
-            <div id="numberRocket" onclick="verifySuccess(5)">5</div>
-            <div id="numberRocket" onclick="verifySuccess(6)">6</div>
-            <div id="numberRocket" onclick="verifySuccess(7)">7</div>
-            <div id="numberRocket" onclick="verifySuccess(8)">8</div>
-            <div id="numberRocket" onclick="verifySuccess(9)">9</div>
+        <div id="gridRocket"><input type="text" id="pinRocket" placeholder="Insira o PIN" readonly>
+            <div id="numberRocket" onclick="typeNumber(1)">1</div>
+            <div id="numberRocket" onclick="typeNumber(2)">2</div>
+            <div id="numberRocket" onclick="typeNumber(3)">3</div>
+            <div id="numberRocket" onclick="typeNumber(4)">4</div>
+            <div id="numberRocket" onclick="typeNumber(5)">5</div>
+            <div id="numberRocket" onclick="typeNumber(6)">6</div>
+            <div id="numberRocket" onclick="typeNumber(7)">7</div>
+            <div id="numberRocket" onclick="typeNumber(8)">8</div>
+            <div id="numberRocket" onclick="typeNumber(9)">9</div>
         </div>
         <div id="successNotifyRocket">
             <div id="successText">Sucesso!</div>
@@ -79,12 +79,13 @@
 
     #successNotifyRocket {
         background-color: #d9d9d9;
-        opacity: 70%;
+        opacity: 90%;
         padding: 4rem;
         width: 25%;
         position: absolute;
         margin-top: -17rem;
-        display: none
+        display: none;
+        width: 22.5%;
     }
 
     #successText {
