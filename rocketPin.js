@@ -1,3 +1,3 @@
-function verifySuccess() {
-    alert("Teste feito");
+function verifySuccess(typedNumber) {
+    document.getElementById("pinRocket").value = toString(typedNumber);
 }
