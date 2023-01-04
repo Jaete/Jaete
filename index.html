@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="./rocketPin.js"></script>
+    <script src="https://kit.fontawesome.com/2a9281b2e7.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <div id="containerRocket">
@@ -19,6 +20,8 @@
             <div id="numberRocket" onclick="typeNumber(7)">7</div>
             <div id="numberRocket" onclick="typeNumber(8)">8</div>
             <div id="numberRocket" onclick="typeNumber(9)">9</div>
+            <div id="numberRocket" class="zero" onclick="typeNumber(0)">0</div>
+            <i class="fa-solid fa-delete-left"></i>
         </div>
         <div id="successNotifyRocket">
             <div id="successText">Sucesso!</div>
@@ -45,7 +48,7 @@
     #gridRocket {
         display: grid;
         grid-template-columns: repeat(3, minmax(0, 1fr));
-        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-rows: repeat(5, minmax(0, 1fr));
         padding: 3em;
     }
 
@@ -58,6 +61,23 @@
         grid-column: 1/4;
     }
 
+    i{
+        background-color: #d9d9d9;
+        opacity: 80%;
+        margin: 0.5em;
+        border-radius: 10px;
+        padding: 1em;
+        color: #db3030;
+        grid-row: 5;
+        grid-column: 3;
+
+    }
+
+    .zero{
+        grid-row: 5;
+        grid-column: 2/3;
+    }
+
     #numberRocket {
         background-color: #d9d9d9;
         opacity: 80%;
@@ -68,12 +88,12 @@
         font-weight: bold;
     }
 
-    #numberRocket:hover {
+    #numberRocket:hover, i:hover {
         background-color: #adadad;
         cursor: pointer;
     }
 
-    #numberRocket:active {
+    #numberRocket:active, i:hover {
         background-color: #6e6e6e;
     }
 
