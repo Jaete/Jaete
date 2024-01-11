@@ -8,7 +8,7 @@ I work with Game Development aswell.
 
 ## 🚀 About Me
 
-I'm a full-stack developer, passionate about programming, logic thinking and problem solving.
+I'm a full-stack developer, passionate about programming, logical thinking and problem solving.
 
 ## 🛠 Current Skills:
 
