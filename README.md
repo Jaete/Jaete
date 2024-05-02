@@ -33,7 +33,7 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 ### Game Development
 #### Engines
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-grey?style=for-the-badge&logo=unrealengine)
-![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine)
+![Godot](https://img.shields.io/badge/Godot%20Engine-white?style=for-the-badge&logo=godotengine)
 
 #### Languages/No-Code Systems
 ![C++](https://img.shields.io/badge/C%20++-00599C?style=for-the-badge&logo=cplusplus)
