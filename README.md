@@ -37,7 +37,7 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 
 #### Languages/No-Code Systems
 ![C++](https://img.shields.io/badge/C%20++-00599C?style=for-the-badge&logo=cplusplus)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine)
+![GDScript](https://img.shields.io/badge/GDScript-white?style=for-the-badge&logo=godotengine)
 ![Blueprint](https://img.shields.io/badge/Blueprint-grey?style=for-the-badge&logo=unrealengine)
 
 ## 📖 Aiming to these skills:
