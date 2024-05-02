@@ -31,7 +31,7 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ### Game Development
-![Unreal](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=unrealengine)
+![Unreal](https://img.shields.io/badge/unreal%20engine-grey?style=for-the-badge&logo=unrealengine)
 
 
 ## 📖 Aiming to these skills:
