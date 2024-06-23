@@ -22,7 +22,7 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Back-End
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -36,6 +36,7 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 ![Godot](https://img.shields.io/badge/Godot%20Engine-white?style=for-the-badge&logo=godotengine)
 
 #### Languages/No-Code Systems
+![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp)
 ![C++](https://img.shields.io/badge/C%20++-00599C?style=for-the-badge&logo=cplusplus)
 ![GDScript](https://img.shields.io/badge/GDScript-white?style=for-the-badge&logo=godotengine)
 ![Blueprint](https://img.shields.io/badge/Blueprint-grey?style=for-the-badge&logo=unrealengine)
