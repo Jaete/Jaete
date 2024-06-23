@@ -42,9 +42,6 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 ![Blueprint](https://img.shields.io/badge/Blueprint-grey?style=for-the-badge&logo=unrealengine)
 
 ## 📖 Aiming to these skills:
-
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
