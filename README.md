@@ -54,4 +54,4 @@ I'm a full-stack developer, passionate about programming, logical thinking and p
 
 ![Jaete's Stats](https://github-readme-stats.vercel.app/api?username=Jaete&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 ![Jaete's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaete&theme=graywhite&hide_border=true)
-![Jaete's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaete&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+![Jaete's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaete&theme=vue&show_icons=true&hide_border=true&layout=compact)
